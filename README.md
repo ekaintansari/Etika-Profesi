@@ -22,4 +22,4 @@ Ada dua sumber dalam penulisan Tugas0 Etika Profesi, yaitu:
     
     Bab 5 Etika Berinternet
 
-2. Spotify, berisi penyebab dari pelanggaran etika dan sanksinya
+2. Listening Spotify, berisi penyebab dari pelanggaran etika dan sanksinya

@@ -7,7 +7,7 @@ Ada dua sumber dalam penulisan Tugas0 Etika Profesi, yaitu:
 1. Latex, berisi materi etika profesi dari Bab 1-5 dengan rincian sebagai berikut:
    
    Bab 1 Latar Belakang
-    Bab 2 Tinjauan Umum Etika Profesi
+   Bab 2 Tinjauan Umum Etika Profesi
         2.1 Pengertian Etika dan Moral
         2.2 Pengertian Etika dan Moral
         2.3 Pekerjaan, Profesi, dan Profesional

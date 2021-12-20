@@ -9,6 +9,7 @@ Ada dua sumber dalam penulisan Tugas0 Etika Profesi, yaitu:
    Bab 1 Latar Belakang
    
    Bab 2 Tinjauan Umum Etika Profesi
+   
         2.1 Pengertian Etika dan Moral
         2.2 Pengertian Etika dan Moral
         2.3 Pekerjaan, Profesi, dan Profesional
@@ -16,7 +17,9 @@ Ada dua sumber dalam penulisan Tugas0 Etika Profesi, yaitu:
         2.4 Profesi dan Pekerjaan
         
     Bab 3 Organisasi Profesi
+    
     Bab 4 Profesi Bidang Teknologi Informasi
+    
     Bab 5 Etika Berinternet
 
 2. Spotify, berisi penyebab dari pelanggaran etika dan sanksinya
